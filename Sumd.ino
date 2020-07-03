@@ -2,9 +2,6 @@
 #include <ESP8266WiFi.h>
 #include "SumdRx.h"
 
-//switch shutter position
-bool shutterSwitch=false;
-
 //remote control status
 bool failSafe=true;
 
